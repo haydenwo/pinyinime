@@ -1,0 +1,2 @@
+# pinyinime
+Chinese input
